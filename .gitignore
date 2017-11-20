@@ -93,3 +93,6 @@ ENV/
 
 # twitter cred
 chatbot/credentials.json
+chatbot/credentials.json
+chatbot/credentials.json
+*.txt
